@@ -1,5 +1,5 @@
 {
-    "TOKEN": "MTE3OTYyMTE1NzkwNTg5MTMzOQ.GWyN4P.8zGWTuCebz5lLKC2UWxhkvtgOQg3VmHVRA3sLI",
+    "TOKEN": "",
     "MONGO_DB": "mongodb+srv://satxler:jupiter@satxler.wsnyzxc.mongodb.net/?retryWrites=true&w=majority&appName=satxler",
     "cooldown": true,
     "owner": ["1121735911969923093"],
